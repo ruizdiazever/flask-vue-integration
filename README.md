@@ -4,7 +4,7 @@ Frontend hecho con Vue.js en su version 2, este consume un servicio web que lo p
 ## Run project
 ```bash
 sh build_vue.sh    # Build frontend
-sh run_server.sh   # Make virtual enviroment, make config server and run
+sh build_server.sh   # Make virtual enviroment, make config server and run
 ```
 
 ## Frontend: important files
